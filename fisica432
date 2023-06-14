@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Clase de Física</title>
+  <style>
+    body {
+      background-color: #000000;
+      color: #00FFFF;
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      text-align: justify;
+    }
+
+    h1, h2, h3 {
+      text-align: center;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>Clase de Física</h1>
+
+  <h2>Teoría</h2>
+  <p>Aquí puedes encontrar la teoría relacionada con los conceptos de física que estaremos estudiando.</p>
+
+  <h2>Ejercicios</h2>
+  <p>En esta sección, podrás practicar tus habilidades resolviendo ejercicios de física.</p>
+
+  <h2>Ejemplos</h2>
+  <p>Revisa estos ejemplos para comprender mejor cómo aplicar los conceptos de física en situaciones reales.</p>
+
+  <h2>Fotos</h2>
+  <img src="ruta_a_tu_imagen.jpg" alt="Foto de ejemplo">
+
+  <h2>Videos</h2>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tu_video" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
